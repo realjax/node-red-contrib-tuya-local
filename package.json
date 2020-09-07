@@ -22,6 +22,6 @@
         }
     },
   "dependencies": {
-    "tuyapi": "5.1.2"
+    "tuyapi": "5.3.1"
   }
 }
